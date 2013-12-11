@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<livro nome="Judas" abreviatura="jd" capitulos="1">
-	<capitulo numero="1">
-		<versiculo numero="1">Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e conservados por Jesus Cristo:</versiculo>
-		<versiculo numero="2">Misericórdia, e paz, e amor vos sejam multiplicados.</versiculo>
-		<versiculo numero="3">Amados, procurando eu escrever-vos com toda a diligência acerca da salvação comum, tive por necessidade escrever-vos, e exortar-vos a batalhar pela fé que uma vez foi dada aos santos.</versiculo>
-		<versiculo numero="4">Porque se introduziram alguns, que já antes estavam escritos para este mesmo juízo, homens ímpios, que convertem em dissolução a graça de Deus, e negam a Deus, único dominador e Senhor nosso, Jesus Cristo.</versiculo>
-		<versiculo numero="5">Mas quero lembrar-vos, como a quem já uma vez soube isto, que, havendo o Senhor salvo um povo, tirando-o da terra do Egito, destruiu depois os que não creram;</versiculo>
-		<versiculo numero="6">E aos anjos que não guardaram o seu principado, mas deixaram a sua própria habitação, reservou na escuridão e em prisões eternas até ao juízo daquele grande dia;</versiculo>
-		<versiculo numero="7">Assim como Sodoma e Gomorra, e as cidades circunvizinhas, que, havendo-se entregue à fornicação como aqueles, e ido após outra carne, foram postas por exemplo, sofrendo a pena do fogo eterno.</versiculo>
-		<versiculo numero="8">E, contudo, também estes, semelhantemente adormecidos, contaminam a sua carne, e rejeitam a dominação, e vituperam as dignidades.</versiculo>
-		<versiculo numero="9">Mas o arcanjo Miguel, quando contendia com o diabo, e disputava a respeito do corpo de Moisés, não ousou pronunciar juízo de maldição contra ele; mas disse: O Senhor te repreenda.</versiculo>
-		<versiculo numero="10">Estes, porém, dizem mal do que não sabem; e, naquilo que naturalmente conhecem, como animais irracionais se corrompem.</versiculo>
-		<versiculo numero="11">Ai deles! porque entraram pelo caminho de Caim, e foram levados pelo engano do prêmio de Balaão, e pereceram na contradição de Coré.</versiculo>
-		<versiculo numero="12">Estes são manchas em vossas festas de amor, banqueteando-se convosco, e apascentando-se a si mesmos sem temor; são nuvens sem água, levadas pelos ventos de uma para outra parte; são como árvores murchas, infrutíferas, duas vezes mortas, desarraigadas;</versiculo>
-		<versiculo numero="13">Ondas impetuosas do mar, que escumam as suas mesmas abominações; estrelas errantes, para os quais está eternamente reservada a negrura das trevas.</versiculo>
-		<versiculo numero="14">E destes profetizou também Enoque, o sétimo depois de Adão, dizendo: Eis que é vindo o Senhor com milhares de seus santos;</versiculo>
-		<versiculo numero="15">Para fazer juízo contra todos e condenar dentre eles todos os ímpios, por todas as suas obras de impiedade, que impiamente cometeram, e por todas as duras palavras que ímpios pecadores disseram contra ele.</versiculo>
-		<versiculo numero="16">Estes são murmuradores, queixosos da sua sorte, andando segundo as suas concupiscências, e cuja boca diz coisas mui arrogantes, admirando as pessoas por causa do interesse.</versiculo>
-		<versiculo numero="17">Mas vós, amados, lembrai-vos das palavras que vos foram preditas pelos apóstolos de nosso Senhor Jesus Cristo;</versiculo>
-		<versiculo numero="18">Os quais vos diziam que nos últimos tempos haveria escarnecedores que andariam segundo as suas ímpias concupiscências.</versiculo>
-		<versiculo numero="19">Estes são os que a si mesmos se separam, sensuais, que não têm o Espírito.</versiculo>
-		<versiculo numero="20">Mas vós, amados, edificando-vos a vós mesmos sobre a vossa santíssima fé, orando no Espírito Santo,</versiculo>
-		<versiculo numero="21">Conservai-vos a vós mesmos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna.</versiculo>
-		<versiculo numero="22">E apiedai-vos de alguns, usando de discernimento;</versiculo>
-		<versiculo numero="23">E salvai alguns com temor, arrebatando-os do fogo, odiando até a túnica manchada da carne.</versiculo>
-		<versiculo numero="24">Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória,</versiculo>
-		<versiculo numero="25">Ao único Deus sábio, Salvador nosso, seja glória e majestade, domínio e poder, agora, e para todo o sempre. Amém.</versiculo>
-	</capitulo>
-</livro>
+<book name="Judas" abbrev="jd" chapters="1">
+	<chapter number="1">
+		<verse number="1">Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e conservados por Jesus Cristo:</verse>
+		<verse number="2">Misericórdia, e paz, e amor vos sejam multiplicados.</verse>
+		<verse number="3">Amados, procurando eu escrever-vos com toda a diligência acerca da salvação comum, tive por necessidade escrever-vos, e exortar-vos a batalhar pela fé que uma vez foi dada aos santos.</verse>
+		<verse number="4">Porque se introduziram alguns, que já antes estavam escritos para este mesmo juízo, homens ímpios, que convertem em dissolução a graça de Deus, e negam a Deus, único dominador e Senhor nosso, Jesus Cristo.</verse>
+		<verse number="5">Mas quero lembrar-vos, como a quem já uma vez soube isto, que, havendo o Senhor salvo um povo, tirando-o da terra do Egito, destruiu depois os que não creram;</verse>
+		<verse number="6">E aos anjos que não guardaram o seu principado, mas deixaram a sua própria habitação, reservou na escuridão e em prisões eternas até ao juízo daquele grande dia;</verse>
+		<verse number="7">Assim como Sodoma e Gomorra, e as cidades circunvizinhas, que, havendo-se entregue à fornicação como aqueles, e ido após outra carne, foram postas por exemplo, sofrendo a pena do fogo eterno.</verse>
+		<verse number="8">E, contudo, também estes, semelhantemente adormecidos, contaminam a sua carne, e rejeitam a dominação, e vituperam as dignidades.</verse>
+		<verse number="9">Mas o arcanjo Miguel, quando contendia com o diabo, e disputava a respeito do corpo de Moisés, não ousou pronunciar juízo de maldição contra ele; mas disse: O Senhor te repreenda.</verse>
+		<verse number="10">Estes, porém, dizem mal do que não sabem; e, naquilo que naturalmente conhecem, como animais irracionais se corrompem.</verse>
+		<verse number="11">Ai deles! porque entraram pelo caminho de Caim, e foram levados pelo engano do prêmio de Balaão, e pereceram na contradição de Coré.</verse>
+		<verse number="12">Estes são manchas em vossas festas de amor, banqueteando-se convosco, e apascentando-se a si mesmos sem temor; são nuvens sem água, levadas pelos ventos de uma para outra parte; são como árvores murchas, infrutíferas, duas vezes mortas, desarraigadas;</verse>
+		<verse number="13">Ondas impetuosas do mar, que escumam as suas mesmas abominações; estrelas errantes, para os quais está eternamente reservada a negrura das trevas.</verse>
+		<verse number="14">E destes profetizou também Enoque, o sétimo depois de Adão, dizendo: Eis que é vindo o Senhor com milhares de seus santos;</verse>
+		<verse number="15">Para fazer juízo contra todos e condenar dentre eles todos os ímpios, por todas as suas obras de impiedade, que impiamente cometeram, e por todas as duras palavras que ímpios pecadores disseram contra ele.</verse>
+		<verse number="16">Estes são murmuradores, queixosos da sua sorte, andando segundo as suas concupiscências, e cuja boca diz coisas mui arrogantes, admirando as pessoas por causa do interesse.</verse>
+		<verse number="17">Mas vós, amados, lembrai-vos das palavras que vos foram preditas pelos apóstolos de nosso Senhor Jesus Cristo;</verse>
+		<verse number="18">Os quais vos diziam que nos últimos tempos haveria escarnecedores que andariam segundo as suas ímpias concupiscências.</verse>
+		<verse number="19">Estes são os que a si mesmos se separam, sensuais, que não têm o Espírito.</verse>
+		<verse number="20">Mas vós, amados, edificando-vos a vós mesmos sobre a vossa santíssima fé, orando no Espírito Santo,</verse>
+		<verse number="21">Conservai-vos a vós mesmos no amor de Deus, esperando a misericórdia de nosso Senhor Jesus Cristo para a vida eterna.</verse>
+		<verse number="22">E apiedai-vos de alguns, usando de discernimento;</verse>
+		<verse number="23">E salvai alguns com temor, arrebatando-os do fogo, odiando até a túnica manchada da carne.</verse>
+		<verse number="24">Ora, àquele que é poderoso para vos guardar de tropeçar, e apresentar-vos irrepreensíveis, com alegria, perante a sua glória,</verse>
+		<verse number="25">Ao único Deus sábio, Salvador nosso, seja glória e majestade, domínio e poder, agora, e para todo o sempre. Amém.</verse>
+	</chapter>
+</book>

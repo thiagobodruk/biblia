@@ -9,11 +9,11 @@ Atualmente o projeto conta com três versões da Bíblia Sagrada em Português B
 
 As versões estão disponibilizadas em arquivos XML em codificação UTF-8, um arquivo para cada livro. Cada arquivo possui a seguinte estrutura:
 ```
-<livro>
-  <capitulo>
-    <versiculo>Texto</versiculo>
-  </capitulo>
-</livro>
+<book>
+  <chapter>
+    <verse>Texto</verse>
+  </chapter>
+</book>
 ```
 
 ## Metodologia
