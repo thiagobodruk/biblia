@@ -7,7 +7,7 @@ Atualmente o projeto conta com três versões da Bíblia Sagrada em Português B
 - Almeida Corrigida e Fiel (ACF)
 - Almeida Revisada Imprensa Bíblica (AA)
 
-AtualmenteaAs versões estão disponibilizadas em dois formatos:
+As versões estão disponibilizadas em dois formatos:
 - XML
 - SQL
 
