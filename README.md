@@ -23,16 +23,12 @@ Há um arquivo XML para cada versão descrita acima. Os arquivos XML estão codi
 
 ### SQL
 Há um arquivo SQL para cada versão descrita acima. Os arquivos SQL estão codificados em UTF-8 e possuem a seguinte estrutura:
-```
-books.sql
 - Cria a tabela 'testament'
 - Cria a tabela 'books'
 - Popula as duas tabelas
-
-versão.sql
 - Cria a tabela 'verses'
 - Popula a tabela com os versículos
-```
+
 A tabela 'verses' está estruturada da seguinte forma:
 - id: é o identificador único do versículo
 - version: é a versão da Bíblia (NVI, ACF, AA, etc)
