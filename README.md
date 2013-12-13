@@ -7,7 +7,12 @@ Atualmente o projeto conta com três versões da Bíblia Sagrada em Português B
 - Almeida Corrigida e Fiel (ACF)
 - Almeida Revisada Imprensa Bíblica (AA)
 
-As versões estão disponibilizadas em arquivos XML em codificação UTF-8, um arquivo para cada livro. Cada arquivo possui a seguinte estrutura:
+AtualmenteaAs versões estão disponibilizadas em dois formatos:
+- XML
+- SQL
+
+### XML
+Há um arquivo XML para cada versão descrita acima. Os arquivos XML estão codificados em UTF-8 e possuem a seguinte estrutura:
 ```
 <book>
   <chapter>
@@ -15,6 +20,27 @@ As versões estão disponibilizadas em arquivos XML em codificação UTF-8, um a
   </chapter>
 </book>
 ```
+
+### SQL
+Há um arquivo SQL para cada versão descrita acima. Os arquivos SQL estão codificados em UTF-8 e possuem a seguinte estrutura:
+```
+books.sql
+- Cria a tabela 'testament'
+- Cria a tabela 'books'
+- Popula as duas tabelas
+
+versão.sql
+- Cria a tabela 'verses'
+- Popula a tabela com os versículos
+```
+A tabela 'verses' está estruturada da seguinte forma:
+- id: é o identificador único do versículo
+- version: é a versão da Bíblia (NVI, ACF, AA, etc)
+- testament: é a identificação do testamento, (1) Velho Testamento ou (2) Novo Testamento
+- book: é a identificação do livro da Bília (1-66)
+- chapter: é o número do caítulo
+- verse: é o número do versículo
+- text: é o texto do versículo
 
 ## Metodologia
 A compilação dos arquivos foi obtida por meio do crawling de páginas web. Sendo assim, é possível, embora pouco provável, que haja pequenos erros de coleta.
