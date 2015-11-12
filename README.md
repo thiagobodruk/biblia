@@ -38,6 +38,19 @@ A tabela 'verses' está estruturada da seguinte forma:
 - verse: é o número do versículo
 - text: é o texto do versículo
 
+### JSON
+Há um arquivo JSON para cada versão descrita acima. Os arquivos SQL estão codificados em UTF-8 e possuem a seguinte estrutura:
+```
+[
+	{"abbr": 
+		[
+			{"1": [{"1": "..."}, {"2": "..."}]}, {"2": [{"1": "..."}, {"2": "..."}]},
+			{"2": [{"1": "..."}, {"2": "..."}]}, {"2": [{"1": "..."}, {"2": "..."}]}
+		]
+	}
+]
+```
+
 ## Metodologia
 A compilação dos arquivos foi obtida por meio do crawling de páginas web. Sendo assim, é possível, embora pouco provável, que haja pequenos erros de coleta.
 
