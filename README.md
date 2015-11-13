@@ -21,6 +21,8 @@ Há um arquivo XML para cada versão descrita acima. Os arquivos XML estão codi
 </book>
 ```
 
+Há também arquivos mínimos contendo as versões com todos os livros.
+
 ### SQL
 Há um arquivo SQL para cada versão descrita acima. Os arquivos SQL estão codificados em UTF-8 e possuem a seguinte estrutura:
 - Cria a tabela 'testament'
@@ -42,10 +44,14 @@ A tabela 'verses' está estruturada da seguinte forma:
 Há um arquivo JSON para cada versão descrita acima. Os arquivos SQL estão codificados em UTF-8 e possuem a seguinte estrutura:
 ```
 [
-	{"abbr": 
+	{
+	"abbrev" : "abbrev"
+	"book" : "name"
+	"chapters": 
 		[
-			{"1": [{"1": "..."}, {"2": "..."}]}, {"2": [{"1": "..."}, {"2": "..."}]},
-			{"2": [{"1": "..."}, {"2": "..."}]}, {"2": [{"1": "..."}, {"2": "..."}]}
+			{"1": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
+			{"2": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
+			{"3": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}}
 		]
 	}
 ]
