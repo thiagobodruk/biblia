@@ -7,6 +7,8 @@ Atualmente o projeto conta com três versões da Bíblia Sagrada em Português B
 - Almeida Corrigida e Fiel (ACF)
 - Almeida Revisada Imprensa Bíblica (AA)
 
+Também temos um projeto com [versões da Bíblia em outros idiomas](https://github.com/thiagobodruk/bible).
+
 As versões estão disponibilizadas em três formatos:
 - XML
 - SQL
@@ -14,7 +16,7 @@ As versões estão disponibilizadas em três formatos:
 
 ### XML
 Há um arquivo XML para cada versão descrita acima. Os arquivos XML estão codificados em UTF-8 e possuem a seguinte estrutura:
-```
+```xml
 <book>
   <chapter>
     <verse>Texto</verse>
@@ -43,7 +45,7 @@ A tabela 'verses' está estruturada da seguinte forma:
 
 ### JSON
 Há um arquivo JSON para cada versão descrita acima. Os arquivos JSON estão codificados em UTF-8 e possuem a seguinte estrutura:
-```
+```javascript
 [
 	{
 	"abbrev" : "abbrev"
