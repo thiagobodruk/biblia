@@ -10,6 +10,7 @@ Atualmente o projeto conta com três versões da Bíblia Sagrada em Português B
 As versões estão disponibilizadas em dois formatos:
 - XML
 - SQL
+- JSON
 
 ### XML
 Há um arquivo XML para cada versão descrita acima. Os arquivos XML estão codificados em UTF-8 e possuem a seguinte estrutura:
