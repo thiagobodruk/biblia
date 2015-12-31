@@ -42,7 +42,7 @@ A tabela 'verses' está estruturada da seguinte forma:
 - text: é o texto do versículo
 
 ### JSON
-Há um arquivo JSON para cada versão descrita acima. Os arquivos SQL estão codificados em UTF-8 e possuem a seguinte estrutura:
+Há um arquivo JSON para cada versão descrita acima. Os arquivos JSON estão codificados em UTF-8 e possuem a seguinte estrutura:
 ```
 [
 	{
