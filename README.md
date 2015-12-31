@@ -65,3 +65,6 @@ A compilação dos arquivos foi obtida por meio do crawling de páginas web. Sen
 
 ## Licença
 As traduções bíblicas deste projeto são de autoria e propriedade intelectual da Sociedade Bíblica Internacional (NVI), da Sociedade Bíblica Trinitariana (ACF) e da Imprensa Bíblica Brasileira (AA). Todos os direitos reservados aos autores.
+
+## Colabore!
+Ajude-nos a entregar um conteúdo de qualidade, revisando os códigos e montando estruturas otimizadas. Você também podem colaborar com o projeto fazendo uma doação voluntária por meio do [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=A9FM66AQT672L&lc=BR&item_name=Bible%20Sources&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
