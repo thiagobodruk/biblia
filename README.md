@@ -53,13 +53,14 @@ Há um arquivo JSON para cada versão descrita acima. Os arquivos JSON estão co
 	"book" : "name"
 	"chapters": 
 		[
-			{"1": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
-			{"2": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}},
-			{"3": {"1": "...", "2": "..."}}, {"2": {"1": "...", "2": "..."}}
+			["Texto do versículo 1", "Texto do versículo 2", "Texto do versculo 3", "..."],
+			["Texto do versículo 1", "Texto do versículo 2", "Texto do versculo 3", "..."],
+			["Texto do versículo 1", "Texto do versículo 2", "Texto do versculo 3", "..."]
 		]
 	}
 ]
 ```
+Os números dos capítulos e versículos podem ser recuperados pelo índice das arrays.
 
 ## Como os arquivos foram montados?
 A compilação dos arquivos foi obtida por meio do crawling de páginas web. Sendo assim, é possível, embora pouco provável, que haja pequenos erros de coleta.
